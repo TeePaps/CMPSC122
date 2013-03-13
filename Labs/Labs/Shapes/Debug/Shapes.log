@@ -1,0 +1,25 @@
+﻿Build started 3/12/2013 6:15:58 PM.
+     1>Project "F:\CMPSC 122\Labs\Labs\Shapes\Shapes.vcxproj" on node 2 (build target(s)).
+     1>InitializeBuildStatus:
+         Creating "Debug\Shapes.unsuccessfulbuild" because "AlwaysCreate" was specified.
+       ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt Main.cpp
+         Main.cpp
+     1>f:\cmpsc 122\labs\labs\shapes\triangle.h(54): warning C4244: 'argument' : conversion from 'const int' to 'float', possible loss of data
+     1>f:\cmpsc 122\labs\labs\shapes\triangle.h(54): warning C4244: 'argument' : conversion from 'const int' to 'float', possible loss of data
+     1>f:\cmpsc 122\labs\labs\shapes\triangle.h(55): warning C4244: 'argument' : conversion from 'const int' to 'float', possible loss of data
+     1>f:\cmpsc 122\labs\labs\shapes\triangle.h(55): warning C4244: 'argument' : conversion from 'const int' to 'float', possible loss of data
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"F:\CMPSC 122\Labs\Labs\Debug\Shapes.exe" /INCREMENTAL:NO /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"Debug\Shapes.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"F:\CMPSC 122\Labs\Labs\Debug\Shapes.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"F:\CMPSC 122\Labs\Labs\Debug\Shapes.lib" /MACHINE:X86 Debug\Main.obj
+     1>Main.obj : warning LNK4075: ignoring '/EDITANDCONTINUE' due to '/INCREMENTAL:NO' specification
+         Shapes.vcxproj -> F:\CMPSC 122\Labs\Labs\Debug\Shapes.exe
+       Manifest:
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /outputresource:"F:\CMPSC 122\Labs\Labs\Debug\Shapes.exe;#1" /manifest Debug\Shapes.exe.intermediate.manifest
+       FinalizeBuildStatus:
+         Deleting file "Debug\Shapes.unsuccessfulbuild".
+         Touching "Debug\Shapes.lastbuildstate".
+     1>Done Building Project "F:\CMPSC 122\Labs\Labs\Shapes\Shapes.vcxproj" (build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:27.10

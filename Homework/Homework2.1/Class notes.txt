@@ -1,0 +1,30 @@
+HOMEWORK 2 DUE: 
+AFTER SPRING BREAK
+
+myString = STLString.c_str()
+
+
+TLD is subclass of subdomain
+	Vector of subdomain part pointer
+	Push_back()
+	heap allocated 
+	must have destructor to deallocate array
+
+
+Load TLDs into vector
+	do match against vector
+
+
+Read about MAPS: Ch. 9.1, 9.2
+	TLD-> 1
+	Key->value
+	map[TLD]
+	map<string,bool>
+	TldPart::ValidTlds;
+
+
+Whenever you have static members, must be instantiated in cpp file.
+
+New STATIC function preload in TLD to open and read file.
+	Include if statement (ex. if !empty: do nothing)
+	

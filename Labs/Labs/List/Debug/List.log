@@ -1,0 +1,18 @@
+﻿Build started 2/24/2013 7:20:53 PM.
+     1>Project "F:\CMPSC 122\Labs\Labs\List\List.vcxproj" on node 4 (build target(s)).
+     1>InitializeBuildStatus:
+         Creating "Debug\List.unsuccessfulbuild" because "AlwaysCreate" was specified.
+       ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt Main.cpp
+         Main.cpp
+       ManifestResourceCompile:
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\rc.exe /nologo /fo"Debug\List.exe.embed.manifest.res" Debug\List_manifest.rc 
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"F:\CMPSC 122\Labs\Labs\Debug\List.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"Debug\List.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"F:\CMPSC 122\Labs\Labs\Debug\List.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"F:\CMPSC 122\Labs\Labs\Debug\List.lib" /MACHINE:X86 Debug\List.exe.embed.manifest.res
+         Debug\Main.obj
+     1>LINK : fatal error LNK1123: failure during conversion to COFF: file invalid or corrupt
+     1>Done Building Project "F:\CMPSC 122\Labs\Labs\List\List.vcxproj" (build target(s)) -- FAILED.
+
+Build FAILED.
+
+Time Elapsed 00:02:19.97

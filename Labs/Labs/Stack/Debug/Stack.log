@@ -1,0 +1,17 @@
+﻿Build started 2/24/2013 9:51:14 PM.
+     1>Project "F:\CMPSC 122\Labs\Labs\Stack\Stack.vcxproj" on node 2 (build target(s)).
+     1>InitializeBuildStatus:
+         Creating "Debug\Stack.unsuccessfulbuild" because "AlwaysCreate" was specified.
+       ClCompile:
+         All outputs are up-to-date.
+       Link:
+         All outputs are up-to-date.
+         Stack.vcxproj -> F:\CMPSC 122\Labs\Labs\Debug\Stack.exe
+       FinalizeBuildStatus:
+         Deleting file "Debug\Stack.unsuccessfulbuild".
+         Touching "Debug\Stack.lastbuildstate".
+     1>Done Building Project "F:\CMPSC 122\Labs\Labs\Stack\Stack.vcxproj" (build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:00.14
